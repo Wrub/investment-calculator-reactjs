@@ -23,7 +23,7 @@ function UserInput({ onChange, userInput }) {
                     />
                 </div>
                 <div>
-                    <label htmlFor='expected-return'>Expected Return</label>
+                    <label htmlFor='expected-return'>Expected Return (%)</label>
                     <input
                         id='expected-return'
                         type='number'
